@@ -17,11 +17,11 @@ header,
 #active {
     color: white;
 }
+
 body{
     background-image: url(img/backg.png);
     background-size: cover;
 }
-
 
 #nameinfo {
     margin: 0;
@@ -32,7 +32,6 @@ body{
 #name {
     color: white;
     font-size: 20px;
-
 }
 
 #school {
@@ -49,7 +48,6 @@ body{
 
 #navbar2 {
     background-color: #272e36;
-    
 }
 #aboutmecontainer{
     padding-top: 0%;
@@ -57,13 +55,10 @@ body{
 }
 
 #carorow {
-
-    
     padding-right: 5%;
 }
 
 #quoteimage {
-
     padding: 10%;
 }
 
@@ -72,8 +67,7 @@ body{
 }
 
 #gandhi {
-    padding-left: 50%;
-    
+    padding-left: 50%;    
 }
 
 #aboutmetext {
