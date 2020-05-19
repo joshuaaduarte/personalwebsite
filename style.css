@@ -1,0 +1,83 @@
+html,
+body,
+header,
+#Intro {
+    height: 100%;
+}
+
+#navbar {
+    background-color: rgba(0, 0, 0, 0);
+    
+}
+
+#collapseicon {
+    color: white;
+}
+
+#active {
+    color: white;
+}
+body{
+    background-image: url(img/backg.png);
+    background-size: cover;
+}
+
+
+#nameinfo {
+    margin: 0;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+#name {
+    color: white;
+    font-size: 20px;
+
+}
+
+#school {
+    color: maroon;
+}
+
+#major {
+    color: white;
+}
+
+#aboutpage{
+    background-image: url(img/grayback.jpg);
+}
+
+#navbar2 {
+    background-color: #272e36;
+    
+}
+#aboutmecontainer{
+    padding-top: 0%;
+    margin-left: 0%;
+}
+
+#carorow {
+
+    
+    padding-right: 5%;
+}
+
+#quoteimage {
+
+    padding: 10%;
+}
+
+#quotetext {
+    color: white;    
+}
+
+#gandhi {
+    padding-left: 50%;
+    
+}
+
+#aboutmetext {
+    color: white;
+}
+
+
