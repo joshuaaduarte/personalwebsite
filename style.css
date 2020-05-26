@@ -309,5 +309,55 @@ body{
             margin-top: 5%;
             padding-bottom: 5%;
         }
+
+/* End of experience page */
+
+/* Projects Page */
+
+
             
-            
+    #tamushpe {
+        background-image: linear-gradient(90deg, rgb(128,0,0,.412) 40%, rgb(128,0,0,.412) 40%, rgb(128,0,0,.412) 40%), url(img/photo6.jpg);
+        background-size:100% 100%;
+        background-repeat:no-repeat;
+        color: white;
+        margin-bottom: 0%;
+
+    }
+
+    #fermii {
+        background-image: url(img/fermiilogo.jpg);
+        background-size:100% 100%;
+        background-repeat:no-repeat;
+        color: white;
+        margin-bottom: 0;
+    }
+
+    #tamuhack{
+        background-image: linear-gradient(90deg, rgb(133, 146, 158,.612) 40%, rgb(133, 146, 158,.612) 40%, rgb(133, 146, 158,.612) 40%), url(img/tamuhacklogo.jpg);
+        background-size:100% 100%;
+        background-repeat:no-repeat;
+        color: white;
+        margin-bottom: 0%;
+
+    }
+    #extremeengineering {
+        background-image: linear-gradient(90deg, rgb(243,156,18,.312) 40%, rgb(243,156,18,.312) 40%, rgb(243,156,18,.312) 40%), url(img/exteng.jpg);
+        background-size:100% 100%;
+        background-repeat:no-repeat;
+        color: white;
+        margin-bottom: 0%;
+
+    }
+
+    #archdesign {
+        
+        
+        background-image: linear-gradient(90deg, rgba(15, 13, 54, 0.712) 40%, rgb(15, 13, 54,.712) 40%, rgb(15, 13, 54,.712) 40%), url(img/archdesign.png);
+        background-size:100% 100%;
+        background-repeat:no-repeat;
+        color: white;
+        margin-bottom: 0%;
+
+    }
+
