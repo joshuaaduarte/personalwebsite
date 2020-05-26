@@ -281,3 +281,33 @@ body{
   bottom: 0px;
   left: 43px;
 }
+
+/* End of about me page */
+
+/*Experience Page */
+
+    #card {
+        padding: 2%;
+    }
+    /* College experience*/
+        /* Junior Year */
+            #junior-year {
+                margin-top: 5%;
+                margin-bottom: 5%;
+            }
+        /* Sophomore Year */
+        #soph-year {
+            margin-bottom: 5%;
+        }
+        /* Freshman Year */
+        #fresh-year {
+            margin-bottom: 5%;
+        }
+        
+    /* High School Experience */
+        #highschool {
+            margin-top: 5%;
+            padding-bottom: 5%;
+        }
+            
+            
